@@ -48,17 +48,9 @@ METHOD
 Algorithm Used
 Random Forest: The machine learning flow begins with the collection of diverse agricultural data, including soil type, climate conditions, historical crop yields, and agricultural practices. This data is then preprocessed to handle missing values, normalize features, and encode categorical variables. Subsequently, the preprocessed data is divided into training and testing sets for model evaluation. The Random Forest algorithm is then applied to the training data, where multiple decision trees are trained on different subsets of the dataset using random feature selection. During the training process, each decision tree learns to classify crops based on the provided features, such as soil characteristics and climate attributes. By leveraging the collective knowledge of multiple decision trees, Random Forest can effectively capture complex interactions between different variables, resulting in more reliable recommendations compared to traditional single-tree methods. Furthermore, Random Forest is resilient to overfitting and performs well with large datasets, making it suitable for handling the diverse and voluminous agricultural data often encountered in crop recommendation systems. Finally, the trained model is deployed into the crop recommendation system, where it assists farmers and agricultural stakeholders in making informed decisions to optimize crop productivity and yield. Overall, the integration of the Random Forest classifier algorithm into a crop recommendation system significantly improves the precision and accuracy of crop recommendations, thereby facilitating sustainable agricultural practices and enhancing overall crop yield.
 ![image](https://github.com/Pujitha-3008/Crop-recommendation-system/assets/85408034/19c9f01b-c54b-4971-b31e-33684fd9617b)
-
-
-
-
 # Login page
 ![alt text](https://github.com/kritimyantra/flask-authentication-system/blob/main/login.png?raw=true)
-
-
 # Register page
 ![alt text](https://github.com/kritimyantra/flask-authentication-system/blob/main/register.png?raw=true)
-
-
 # Dashboard page
 ![alt text](https://github.com/kritimyantra/flask-authentication-system/blob/main/dashboard.png?raw=true)
