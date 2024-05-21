@@ -33,10 +33,7 @@ HARDWARE REQUIREMENTS:
 Processor: Intel 1-3, 5, to 7 RAM: 4GB 
 RAM or higher 
 Hard Disk: 500GB or higher
-![image](https://github.com/Pujitha-3008/Crop-recommendation-system/assets/85408034/c2bba7aa-4f74-4695-b264-a89e9c51fab3)
-
 MODULES
-
 HTML: HTML structures and presents content in crop recommendation websites, creating layouts, organizing elements, and incorporating interactive forms for personalized recommendations. It serves as the foundation for intuitive and user-friendly interfaces, facilitating access to valuable agricultural insights.
 CSS: CSS styles HTML elements for visual appeal and cohesion, defining color schemes, typography, layout, and responsiveness. It incorporates animations and transitions for interactive feedback, enhancing the user experience of the crop recommendation system website.
 JavaScript: JavaScript enhances user interaction in the frontend, enabling dynamic features for inputting data. Integration with Flask backend facilitates real-time generation of personalized crop recommendations, empowering farmers with actionable insights.
